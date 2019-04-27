@@ -1,8 +1,12 @@
 #My Sample App
 ## This Application demomstrate the use of git 
 
-Name -- Age -- mark
-Ajay --26--60
-Babloo--78--56
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| A     | 45 | 5 |
+| B   | 66     |   5 |
+| C | 66    |    5 |
+
 
 >Blackcot this is text
